@@ -19,6 +19,8 @@ The dataset contains **541,909 transactions** from UK retailers, covering:
 - **CustomerID**: Unique customer identifier.  
 - **Country**: Country of the customer.  
 
+The dataset is publicly available on Kaggle: [Online Retail Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data).  
+
 ### Preprocessing Steps  
 1. **Data Cleaning**:  
    - Removed duplicates, missing values, and anomalies.  
@@ -55,7 +57,9 @@ The dataset contains **541,909 transactions** from UK retailers, covering:
 - Extracted frequent itemsets and association rules to identify shopping patterns.  
 - Example: Customers buying "JUMBO BAG RED RETROSPOT" are likely to purchase other tote bags, enabling cross-selling opportunities.  
 
+
 ## Insights  
 1. Enhance inventory management by stocking frequently bought product pairs.  
 2. Develop cluster-specific marketing campaigns, such as bundle offers for Local Shoppers or premium decorative products for Frequent Buyers.  
 3. Tailor recommendations based on association rules to boost cross-selling.  
+
