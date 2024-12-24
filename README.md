@@ -19,7 +19,7 @@ The dataset contains **541,909 transactions** from UK retailers, covering:
 - **CustomerID**: Unique customer identifier.  
 - **Country**: Country of the customer.  
 
-The dataset is publicly available on Kaggle: [Online Retail Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data).  
+The dataset is publicly available on Kaggle: [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data).  
 
 ### Preprocessing Steps  
 1. **Data Cleaning**:  
